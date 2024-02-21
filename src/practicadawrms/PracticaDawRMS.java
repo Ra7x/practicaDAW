@@ -7,6 +7,7 @@ package practicadawrms;
 /**
  *
  * @author Ra7x
+ * @author koalagordokbron
  */
 public class PracticaDawRMS {
 
