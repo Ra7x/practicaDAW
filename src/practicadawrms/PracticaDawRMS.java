@@ -22,6 +22,8 @@ public class PracticaDawRMS {
         
         double valorAbsoluto = calculadora.valorAbsoluto(3.14);
         System.out.println(valorAbsoluto);
+        
+        System.out.println("Pablo Morcillo Cuenca");
     }
     
 }
