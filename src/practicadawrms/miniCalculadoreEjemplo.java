@@ -20,5 +20,5 @@ public class miniCalculadoreEjemplo {
         return Math.sqrt(numero);
     }
     
-    //Hola Pablo ¿uedes ver la modificación?
+    //Nueva modificación para Pablo
 }
