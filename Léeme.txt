@@ -1,0 +1,26 @@
+
+
+DOCUMENTACIÓN DEL PROYECTO MINICALCULADORA DE RAÚL MORENO SERRANO Y PABLO MORCILLO CUENCA
+
+-----------------------------------------------------------------------------------------
+
+* Descripción: Este programa está integramente dedicado al cálculo del valor absoluto y de la raiz cuadrada de un número
+que le sea indicado a la calculadora
+
+* Versión: 1.0
+
+* Estado del proyecto: finalizado
+
+* Requisitos: Tener instalado netBeans 8.1 o superior, JDK 1.8.0_144 y JRE 1.8.0_144 o superior
+
+* Instanlación: Alojar la carpeta del proyecto en la carpeta donde se almacenen el resto de proyectos de netbeans o en la ruta deseada 
+(Si se elige la segunda opción, se le deberá indicar a netBeans la ruta del proyecto)
+
+* Bugs o problemas conocidos: Ninguno, soy un programador cojonudo :)
+
+* Cómo usar la aplicación: En la clase PracticaDawRMS que contiene el main se deberá indicar
+el número del que queremos averiguar el valor absoluto o su raiz cuadrada en cada método.
+Para ejecutar el proyecto, hacer clic en el botón de start o pulsar F6, los resultados serán visibles en el output o
+consola de netBeans
+
+* Derechos de autos y licencia: Reservados para Raúl Moreno Serrano Y Pablo Morcillo Cuenca

@@ -19,4 +19,6 @@ public class miniCalculadoreEjemplo {
     public double raizCuadrada(double numero) {
         return Math.sqrt(numero);
     }
+    
+    //Hola Pablo ¿uedes ver la modificación?
 }
